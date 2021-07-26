@@ -1,4 +1,4 @@
-#DICTIONARY APP
+# DICTIONARY APP
 
 Overview:
 I created this python applicaion to make a user-friendly dictionary for daily use and referncing.
@@ -13,7 +13,7 @@ How to use:
 >Will output the desired definition
 
 Features:
-This program is semi-smart. It will prompt a similar word when an error is made by the user while trying to input a name. 
+>This program is semi-smart. It will prompt a similar word when an error is made by the user while trying to input a name. 
 Hence, not just lame dictionary app.
 
 What I learnt from it?
@@ -21,6 +21,11 @@ What I learnt from it?
 
 
 Reach me 
-email> jubarajmukherjee@protonmai.com/mailtojubaraj@gmail.com
-linkedin>https://www.linkedin.com/in/jubarajmukherjee/
-twitter>@jubarajmukherje
+
+>email ->
+jubarajmukherjee@protonmail.com  //  
+mailtojubaraj@gmail.com
+linkedin ->
+https://www.linkedin.com/in/jubarajmukherjee/
+twitter ->
+@jubarajmukherje
