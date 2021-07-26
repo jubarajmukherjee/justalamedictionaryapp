@@ -1,6 +1,7 @@
+#DICTIONARY APP
+
 Overview:
 I created this python applicaion to make a user-friendly dictionary for daily use and referncing.
-I followed a tutorial to make this.
 
 How to use:
 >Run the app in the command line
